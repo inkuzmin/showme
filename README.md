@@ -11,7 +11,7 @@ echo "webhooks_dir = /path/to/webhooks" >> /path/to/galaxy.ini
 
 2. Copy this repo to the dir with webhooks (defined above):
 ```
-cd /path/to/webhooks && git clone https://this.repo.url
+cd /path/to/webhooks && git clone https://github.com/inkuzmin/showme.git
 ```
 
 3. Restart Galaxy
